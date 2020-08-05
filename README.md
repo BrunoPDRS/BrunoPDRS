@@ -2,7 +2,7 @@
 
 ## Bruno Pedrosa
 
-# Here are some data about me:
+# Here's some info about me:
 <br />I love using codes to help me solve my day-by-day problems. 
 <br />I'm currently enrolled on a Computer Science BTech graduation and working my way to become a FullStack Developer. :computer:
 <br />Always enthusiastic and constantly learning and improving! :chart_with_upwards_trend:
