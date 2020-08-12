@@ -1,5 +1,5 @@
 ### Hey there! Welcome to my GitHub!
-Here you'll have access to projects and my learning timeline!
+Here you'll have access to my projects and my learning timeline!
 
 ## I'm Bruno Pedrosa
 
