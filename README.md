@@ -1,6 +1,6 @@
-### Hello! Welcome to my profile!
+### Hey there! Welcome to my profile!
 
-## Bruno Pedrosa
+## I'm Bruno Pedrosa
 
 # Here's some info about me:
 <br />I love using codes to help me solve my day-by-day problems. 
