@@ -16,3 +16,4 @@
 
 :mailbox: bgpedrosas@gmail.com<br />
 :briefcase: https://www.linkedin.com/in/bruno-pedrosa-/
+:camera: https://www.instagram.com/the.pedrosa27/
