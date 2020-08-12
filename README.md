@@ -1,4 +1,5 @@
-### Hey there! Welcome to my profile!
+### Hey there! Welcome to my GitHub!
+Here you'll have access to projects and my learning timeline!
 
 ## I'm Bruno Pedrosa
 
