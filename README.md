@@ -17,4 +17,5 @@ Here you'll have access to my projects and my learning timeline!
 
 :mailbox: bgpedrosas@gmail.com<br />
 :briefcase: https://www.linkedin.com/in/bruno-pedrosa-/<br />
-:camera: https://www.instagram.com/the.pedrosa27/
+:camera: https://www.instagram.com/the.pedrosa27/<br />
+:bulb: https://www.hackerrank.com/bgpedrosas
