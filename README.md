@@ -6,7 +6,9 @@ Here you'll have access to my projects and my learning timeline!
 # Here's some info about me:
 I love using codes to help me solve my day-by-day problems. 
 
-I'm currently enrolled on a Computer Science BTech graduation and working my way to become a Software Developer. I'm also a FullStack Development Student at Trybe and an Alumni at Rocketseat's GoStack bootcamp (both of which you can find more info about on my linkedin) :computer:
+I'm currently enrolled on a Computer Science BTech graduation and working my way to become a Software Developer.
+
+I'm also a FullStack Development Student at Trybe and an Alumni at Rocketseat's GoStack bootcamp (both of which you can find more info about on my linkedin **LINK AT THE END**) :computer:
 
 Always enthusiastic and constantly learning and improving! :chart_with_upwards_trend:
 
