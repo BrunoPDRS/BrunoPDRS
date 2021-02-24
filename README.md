@@ -6,11 +6,11 @@ Here you'll have access to my projects and my learning timeline!
 # Here's some info about me:
 I love using codes to help me solve my day-by-day problems. 
 
-I'm currently enrolled on a Computer Science BTech graduation and working my way to become a FullStack Developer. :computer:
+I'm currently enrolled on a Computer Science BTech graduation and working my way to become a Software Developer. I'm also a FullStack Development Student at Trybe and an Alumni at Rocketseat's GoStack bootcamp (both of which you can find more info about on my linkedin) :computer:
 
 Always enthusiastic and constantly learning and improving! :chart_with_upwards_trend:
 
-I'm working on my brand new portfolio using React and you can check out my progress [Here](https://github.com/BrunoPDRS/portfolio-react). 
+I'm working on my brand new portfolio using React, TypeScript as well as some other libraries and you can check out my progress [Here](https://github.com/BrunoPDRS/portfolio-react). 
 (Always open to sugestions :wink: )
 
 ---
