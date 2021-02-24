@@ -8,7 +8,7 @@ I love using codes to help me solve my day-by-day problems.
 
 I'm currently enrolled on a Computer Science BTech graduation and working my way to become a Software Developer.
 
-I'm also a FullStack Development Student at Trybe and an Alumni at Rocketseat's GoStack bootcamp (both of which you can find more info about on my linkedin **LINK AT THE END**) :computer:
+I'm also a FullStack Development Student at Trybe and an Alumni at Rocketseat's GoStack bootcamp (both of which you can find more info about on my [LinkedIn](https://www.linkedin.com/in/bruno-pedrosa-/)) :computer:
 
 Always enthusiastic and constantly learning and improving! :chart_with_upwards_trend:
 
