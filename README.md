@@ -13,6 +13,13 @@ Here you'll have access to my projects and my learning timeline!
 :floppy_disk:  My Stack (including stuff I'm working on learning.): Python, JavaScript, ReactJS, Node.js, React Native.<br />
 :video_game:  About me:  I really enjoy playing games, cooking and camping during my freetime.<br /><br />
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoPDRS&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoPDRS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+---
+
 :email:  Contact me:<br /><br />
 
 :mailbox: bgpedrosas@gmail.com<br />
