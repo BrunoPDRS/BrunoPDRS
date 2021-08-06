@@ -40,5 +40,3 @@ I'm working on my brand new portfolio using React, TypeScript as well as some ot
 :mailbox: bgpedrosas@gmail.com
 
 :briefcase: https://www.linkedin.com/in/bruno-pedrosa-/
-
-:camera: https://www.instagram.com/the.pedrosa27/
